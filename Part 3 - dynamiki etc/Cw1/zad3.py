@@ -1,0 +1,1 @@
+# Najdłuższy wspólny podciąg.
